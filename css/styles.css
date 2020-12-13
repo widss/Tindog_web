@@ -38,8 +38,9 @@ h2{
 	color: #ff4c68;
 }
 .iphone6{
-	margin-top: 30px;
-	width: 95%;
+	margin-top: 40px;
+	width: 100%;
+	transform: rotate(25deg);
 }
 .navbar{
 	padding:0;
@@ -93,6 +94,13 @@ h2{
 	padding-left: 20px;
 	color:white;
 	display: flex;
+}
+#features{
+	background-color: white;
+	position: relative;
+	z-index: 1;
+	bottom: 150px
+
 }
 #footer{
 	background-color: #343a40;
