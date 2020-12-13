@@ -96,15 +96,10 @@ h2{
 	color:white;
 	display: flex;
 }
-#features{
-	background-color: white;
-	position: relative;
-	z-index: 1;
-	bottom: 150px;
-	padding-top: 150px;
 
 
-}
+
+
 #footer{
 	background-color: #343a40;
 	display: inline-block;
