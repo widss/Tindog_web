@@ -107,6 +107,9 @@ h2{
 }
 #pricing{
 	margin-bottom: 60px;
+	padding: 5% 10%;
+	width: 90%;
+	margin: auto;
 }
 #press{
 	background-color: #FF655B;
