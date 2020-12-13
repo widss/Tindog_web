@@ -39,8 +39,9 @@ h2{
 }
 .iphone6{
 	margin-top: 40px;
-	width: 100%;
+	width: 65%;
 	transform: rotate(25deg);
+	
 }
 .navbar{
 	padding:0;
@@ -99,7 +100,9 @@ h2{
 	background-color: white;
 	position: relative;
 	z-index: 1;
-	bottom: 150px
+	bottom: 150px;
+	padding-top: 150px;
+
 
 }
 #footer{
