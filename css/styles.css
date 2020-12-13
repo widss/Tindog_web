@@ -41,7 +41,7 @@ h2{
 	margin-top: 40px;
 	width: 65%;
 	transform: rotate(25deg);
-	
+	margin-left: 50%;
 }
 .navbar{
 	padding:0;
@@ -137,4 +137,17 @@ h2{
 	background-color: #FF655B;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900;
+}
+
+/***************Querries**************/
+@media(max-width: 1028px){
+	#title{
+		text-align: center;
+	}
+	.iphone6{
+		transform: rotate(0deg);
+		margin:  0;
+		padding: 5% 0;
+	}
+	
 }
